@@ -1,3 +1,3 @@
-*Odin Recipe
+# Odin Recipe
 
-**writen in html
+writen in html
